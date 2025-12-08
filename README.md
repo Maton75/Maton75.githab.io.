@@ -32,7 +32,7 @@
         </a>
 
         <div class="footer">
-            © Maton75.github.io
+            
         </div>
     </div>
 </body>
